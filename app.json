@@ -1,0 +1,12 @@
+{
+  "name": "PanResponder",
+  "displayName": "PanResponder",
+  "expo": {
+    "name": "PanResponder",
+    "slug": "PanResponder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
